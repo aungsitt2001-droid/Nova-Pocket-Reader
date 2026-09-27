@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.4.bin",
-  "size": 2931200,
-  "sha256": "d5bd8906d74d28f93b8e2aa6690286994834198a88e8247c2c3e1e566476e284",
+  "version": "1.0.5",
+  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.5.bin",
+  "size": 2931504,
+  "sha256": "56954a0e2bfdc6fa689b047cf45ee24ed5eae9c83eab2ac3b645aeea3fe64e4d",
   "notes": [
-    "Preserved Pocket Reader branding",
-    "Balanced Page 2 icons",
-    "Refined dividers and page dots"
+    "Clean Page 2 without dividers",
+    "Full-size Quick Item hitboxes",
+    "Short Online and Stats labels"
   ]
 }
