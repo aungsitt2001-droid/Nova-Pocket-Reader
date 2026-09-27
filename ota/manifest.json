@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.2.bin",
-  "size": 2930512,
-  "sha256": "4e4bc373151c900159db5fc9684a5408f0a6c9fb9d1875fa0027730346a4547e",
+  "version": "1.0.3",
+  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.3.bin",
+  "size": 2930816,
+  "sha256": "f32057449fb50dba2b2fb7de9e6850b89f6015487e91c4695779d88ea189d641",
   "notes": [
-    "Home Page 2 swipe fix",
-    "Release gesture detection",
-    "Quick Item tap protection"
+    "Natural Home swipe direction",
+    "Larger Page 2 icons",
+    "Dividers and page indicator"
   ]
 }
