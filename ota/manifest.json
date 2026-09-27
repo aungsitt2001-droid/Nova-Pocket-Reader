@@ -1,8 +1,8 @@
 {
   "version": "1.0.1",
   "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.1.bin",
-  "size": 2930736,
-  "sha256": "fff6d11d7dc707a82549141324dff88ed79f15645cc53582d7f9b52d4e501f29",
+  "size": 2930432,
+  "sha256": "6ad23b11f6299dcb82c1133b02b4cabcbabb5de6d475fa37133eee519c38eda4",
   "notes": [
     "Home Quick Items page 2",
     "Wi-Fi and Favourite shortcuts",
