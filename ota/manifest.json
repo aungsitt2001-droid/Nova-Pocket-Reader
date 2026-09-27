@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.5.bin",
-  "size": 2931504,
-  "sha256": "56954a0e2bfdc6fa689b047cf45ee24ed5eae9c83eab2ac3b645aeea3fe64e4d",
+  "version": "1.0.6",
+  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.6.bin",
+  "size": 2932384,
+  "sha256": "de16b3256ad17c6162f8ed8502619ad2498dce889e03598991bac41083257b4c",
   "notes": [
-    "Clean Page 2 without dividers",
-    "Full-size Quick Item hitboxes",
-    "Short Online and Stats labels"
+    "Home Page 2 follows Grid, List and Focus layouts",
+    "Wi-Fi, Favourite, Online and Stats added to Customize Home",
+    "Online Uploads and About reordered in Settings"
   ]
 }
