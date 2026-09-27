@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.1.bin",
-  "size": 2930432,
-  "sha256": "6ad23b11f6299dcb82c1133b02b4cabcbabb5de6d475fa37133eee519c38eda4",
+  "version": "1.0.2",
+  "firmware": "https://raw.githubusercontent.com/aungsitt2001-droid/Nova-Pocket-Reader/main/ota/NovaPocketReader_v1.0.2.bin",
+  "size": 2930512,
+  "sha256": "4e4bc373151c900159db5fc9684a5408f0a6c9fb9d1875fa0027730346a4547e",
   "notes": [
-    "Home Quick Items page 2",
-    "Wi-Fi and Favourite shortcuts",
-    "Online Uploads and Stats"
+    "Home Page 2 swipe fix",
+    "Release gesture detection",
+    "Quick Item tap protection"
   ]
 }
